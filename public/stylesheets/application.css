@@ -2,9 +2,10 @@ body {
 	background: #85A5CC;
 }
 h1 {
+	font-family: 'Reenie Beanie', arial, serif;
 	width: 100%;
 	text-align: center;
-	font-size: 2em;
+	font-size: 10em;
 	color: #1A1F2B;
 }
 h4 {
